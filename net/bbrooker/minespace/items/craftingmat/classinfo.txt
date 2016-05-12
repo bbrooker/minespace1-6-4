@@ -1,0 +1,4 @@
+Class info
+armour > armour
+weapons > weapons
+
